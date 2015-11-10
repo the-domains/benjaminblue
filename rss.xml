@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[The Boy Who Drank Stars]]></title>
         <description><![CDATA[The Boy Who Drank Stars]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/benjaminblue/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 10 Nov 2015 17:45:10 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 10 Nov 2015 17:46:57 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/benjaminblue/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0deddfa8-e50b-44e7-9403-701bf3113695.jpg">]]></description>
+            <link>https://thegrid.ai/benjaminblue/8e8d0050-090a-4e51-9a8d-8c1d5f08ee9e/index.html</link>
+            <guid isPermaLink="false">8e8d0050-090a-4e51-9a8d-8c1d5f08ee9e</guid>
+            <pubDate>Tue, 10 Nov 2015 17:46:56 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Welcome aboard.</p>]]></description>
-            <link>undefined1927d7ca-866f-478d-93ea-dbcdfb198e92/index.html</link>
+            <link>https://thegrid.ai/benjaminblue/1927d7ca-866f-478d-93ea-dbcdfb198e92/index.html</link>
             <guid isPermaLink="false">1927d7ca-866f-478d-93ea-dbcdfb198e92</guid>
             <pubDate>Tue, 10 Nov 2015 17:44:36 GMT</pubDate>
         </item>
