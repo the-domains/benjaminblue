@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[The Boy Who Drank Stars]]></title>
-        <description><![CDATA[The Boy Who Drank Stars]]></description>
+        <title><![CDATA[BenjaminBlue]]></title>
+        <description><![CDATA[BenjaminBlue]]></description>
         <link>http://benjaminblue.me/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 12 Nov 2015 12:46:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Nov 2015 02:13:40 GMT</lastBuildDate>
         <atom:link href="http://benjaminblue.me/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[New stuff]]></title>
@@ -12,6 +12,20 @@
             <link>http://benjaminblue.me/new-stuff/index.html</link>
             <guid isPermaLink="false">6bf17185-72b5-4095-ad76-483ad956c422</guid>
             <pubDate>Thu, 12 Nov 2015 12:45:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[Video] | Giant Himalayan Bees Produce Hallucinogenic Honey - TIMEWHEEL]]></title>
+            <description><![CDATA[<article><h1>[Video] | Giant Himalayan Bees Produce Hallucinogenic Honey - TIMEWHEEL</h1><p>TIMEWHEEL is a record label, audiovisual studio and blog.</p><img src="http://payload418.cargocollective.com/1/11/360454/10665113/TW_HoneyHunters01_670.jpg"></article>]]></description>
+            <link>http://timewheel.net/Video-Giant-Himalayan-Bees-Produce-Hallucinogenic-Honey</link>
+            <guid isPermaLink="false">f5e6aee2-cf53-4be1-93e9-2d2f9d003fde</guid>
+            <pubDate>Mon, 16 Nov 2015 02:12:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Final Fantasy VII - "The Essence of Aeris" (DANGER!!! SPOILERS!!!) by Doug Perry]]></title>
+            <description><![CDATA[<article><h1>Final Fantasy VII - "The Essence of Aeris" (DANGER!!! SPOILERS!!!) by Doug Perry</h1><p>a mysterious fate. what could it be? For Materia: Final Fantasy VII Remixed More info about the album: iTunes: itunes.apple.com/us/album/mat... Loudr: loudr.fm/release/materia-fina... Spotify: play.spotify.com/album/5iYxPn... Materia Collective is pleased to present MATERIA: Final Fantasy VII Remixed, a massive five-disc remix project celebrating the announcement of Square Enix's highly-anticipated remake of one of the most beloved role-playing games of all time, Final Fantasy VII.</p><img src="http://i1.sndcdn.com/artworks-000132195900-cy2jyp-t500x500.jpg"></article>]]></description>
+            <link>https://soundcloud.com/doug-perry/the-essence-of-aeris/recommended</link>
+            <guid isPermaLink="false">be63f8a0-768d-4701-8fc5-a7ecd4efff55</guid>
+            <pubDate>Mon, 16 Nov 2015 02:12:29 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[twins]]></title>
@@ -61,20 +75,6 @@
             <link>https://www.flickr.com/photos/obscureterminus/22239672069/in/dateposted/</link>
             <guid isPermaLink="false">6ba8a259-87dc-42bb-bc95-5e53130d2753</guid>
             <pubDate>Tue, 10 Nov 2015 18:05:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[2015-10-22_10-44-47]]></title>
-            <description><![CDATA[<article><h1>2015-10-22_10-44-47</h1><img src="https://farm1.staticflickr.com/577/22409926841_c3845d4e8e_b.jpg"></article>]]></description>
-            <link>https://www.flickr.com/photos/obscureterminus/22409926841/in/dateposted/</link>
-            <guid isPermaLink="false">6b0c8af6-a7d8-409c-8da8-b186b77bd28f</guid>
-            <pubDate>Tue, 10 Nov 2015 18:05:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[IMG_0088]]></title>
-            <description><![CDATA[<article><h1>IMG_0088</h1><img src="https://farm1.staticflickr.com/590/22584974865_a28e2888fb_b.jpg"></article>]]></description>
-            <link>https://www.flickr.com/photos/obscureterminus/22584974865/in/dateposted/</link>
-            <guid isPermaLink="false">bf227fa1-bb74-4757-9788-5de035c89a42</guid>
-            <pubDate>Tue, 10 Nov 2015 18:02:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
