@@ -4,7 +4,7 @@
         <description><![CDATA[BenjaminBlue]]></description>
         <link>http://benjaminblue.me/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 16 Nov 2015 02:13:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Nov 2015 02:46:17 GMT</lastBuildDate>
         <atom:link href="http://benjaminblue.me/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[New stuff]]></title>
@@ -67,13 +67,6 @@
             <description><![CDATA[<article><h1>2015-10-23_12-54-57</h1><img src="https://farm1.staticflickr.com/777/22213388088_9b40b297ec_b.jpg"></article>]]></description>
             <link>https://www.flickr.com/photos/obscureterminus/22213388088/in/dateposted/</link>
             <guid isPermaLink="false">9b773dad-aa16-43ce-8385-5fbe3fafdf60</guid>
-            <pubDate>Tue, 10 Nov 2015 18:05:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[IMG_0084]]></title>
-            <description><![CDATA[<article><h1>IMG_0084</h1><img src="https://farm6.staticflickr.com/5709/22239672069_bc57ed892e_b.jpg"></article>]]></description>
-            <link>https://www.flickr.com/photos/obscureterminus/22239672069/in/dateposted/</link>
-            <guid isPermaLink="false">6ba8a259-87dc-42bb-bc95-5e53130d2753</guid>
             <pubDate>Tue, 10 Nov 2015 18:05:13 GMT</pubDate>
         </item>
     </channel>
