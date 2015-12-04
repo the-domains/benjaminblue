@@ -1,6 +1,6 @@
 name: BenjaminBlue
 favicon: null
-layout_spectrum: 0.50048
+layout_spectrum: 0.75724
 typography_spectrum: 0.97879
 cta:
   domain: null
@@ -19,5 +19,5 @@ color:
   brandStrength: 0
   lightness: 0.747959
   saturation: 0.347854
-  rhythmicContrast: 0.662162
+  rhythmicContrast: 0.25
 purpose: []
