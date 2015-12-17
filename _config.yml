@@ -2,12 +2,12 @@ analytics:
   google: UA-47003751-1
 color:
   brandColors: []
-  brandStrength: 0.25
-  lightness: 0.628378
-  rhythmicContrast: 0.354729
-  saturation: 0.261261
+  brandStrength: 0.283783
+  lightness: 0.362612
+  rhythmicContrast: 0.34009
+  saturation: 0.222972
 cta: {}
-layout_spectrum: 0.18581
+layout_spectrum: 0.621621
 name: BenjaminBlue
 opengraph: {}
 purpose: []
