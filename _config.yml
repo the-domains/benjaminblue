@@ -3,11 +3,11 @@ analytics:
 color:
   brandColors: []
   brandStrength: 0
-  lightness: 0.427927
-  rhythmicContrast: 0
+  lightness: 0.622747
+  rhythmicContrast: 0.199324
   saturation: 0
 cta: {}
-layout_spectrum: 0.612612
+layout_spectrum: 0.139639
 name: BenjaminBlue
 opengraph: {}
 purpose: []
