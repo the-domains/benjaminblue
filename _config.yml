@@ -1,24 +1,14 @@
-name: BenjaminBlue
-favicon: null
-layout_spectrum: 0.621621
-typography_spectrum: 1
-title: The boy who drank stars
-cta:
-  domain: null
-  bucket: null
-  version: null
 analytics:
   google: UA-47003751-1
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors: []
   brandStrength: 0
-  lightness: 0.362612
-  saturation: 0.222972
-  rhythmicContrast: 0.34009
+  lightness: 0.427927
+  rhythmicContrast: 0
+  saturation: 0
+cta: {}
+layout_spectrum: 0.425675
+name: BenjaminBlue
+opengraph: {}
 purpose: []
+typography_spectrum: 1
