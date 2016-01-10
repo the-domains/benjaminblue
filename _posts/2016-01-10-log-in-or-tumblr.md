@@ -22,8 +22,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'https://www.tumblr.com/blog/benjaminblue'
 title: 'Log in | Tumblr'
-datePublished: '2016-01-10T20:28:02.399Z'
-dateModified: '2016-01-10T20:27:21.879Z'
+datePublished: '2016-01-10T20:28:02.514Z'
+dateModified: '2016-01-10T20:27:15.269Z'
 sourcePath: _posts/2016-01-10-log-in-or-tumblr.md
 published: true
 inFeed: true
