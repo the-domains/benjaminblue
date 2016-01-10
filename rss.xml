@@ -4,7 +4,7 @@
         <description><![CDATA[BenjaminBlue]]></description>
         <link>http://benjaminblue.me/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 10 Jan 2016 20:28:38 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Jan 2016 20:33:01 GMT</lastBuildDate>
         <atom:link href="http://benjaminblue.me/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[New stuff]]></title>
@@ -15,7 +15,7 @@
         </item>
         <item>
             <title><![CDATA[Log in | Tumblr]]></title>
-            <description><![CDATA[<article><h1>Log in | Tumblr</h1><p>Log in to your Tumblr account to start posting to your blog.</p><img src="https://40.media.tumblr.com/28a526ef8f9784ce1a6adabddf9e96fb/tumblr_o0eenqEppT1qdgekko1_1280.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Log in | Tumblr</h1><p>Log in to your Tumblr account to start posting to your blog.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/11d1272be8b9e600bd1f8485d4a53e5e064769ee.jpg"></article>]]></description>
             <link>https://www.tumblr.com/blog/benjaminblue</link>
             <guid isPermaLink="false">233ad808-1957-4392-96f5-5d611ac54f5c</guid>
             <pubDate>Sun, 10 Jan 2016 20:28:02 GMT</pubDate>
@@ -68,13 +68,6 @@
             <link>https://soundcloud.com/doug-perry/the-essence-of-aeris/recommended</link>
             <guid isPermaLink="false">be63f8a0-768d-4701-8fc5-a7ecd4efff55</guid>
             <pubDate>Mon, 16 Nov 2015 02:12:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[twins]]></title>
-            <description><![CDATA[<article><h1>twins</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1ce3522520112bb0665f09650b3de31f53458ba3.jpg"></article>]]></description>
-            <link>https://www.flickr.com/photos/obscureterminus/21633467753/in/dateposted/</link>
-            <guid isPermaLink="false">561feeb6-6e7a-4ef7-8ab8-1cc0ed1c56fd</guid>
-            <pubDate>Tue, 10 Nov 2015 18:37:38 GMT</pubDate>
         </item>
     </channel>
 </rss>
