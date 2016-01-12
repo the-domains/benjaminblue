@@ -4,7 +4,7 @@
         <description><![CDATA[BenjaminBlue]]></description>
         <link>http://benjaminblue.me/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 10 Jan 2016 22:22:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Jan 2016 01:56:49 GMT</lastBuildDate>
         <atom:link href="http://benjaminblue.me/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[New stuff]]></title>
@@ -12,6 +12,13 @@
             <link>http://benjaminblue.me/new-stuff/index.html</link>
             <guid isPermaLink="false">6bf17185-72b5-4095-ad76-483ad956c422</guid>
             <pubDate>Thu, 12 Nov 2015 12:45:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<video src="blob:https%3A//www.youtube.com/4e120610-5188-45c0-ab58-e137bd49327d"></video>]]></description>
+            <link>https://www.youtube.com/watch?v=LqgGhJywnHI</link>
+            <guid isPermaLink="false">a0637b5c-e52f-4c93-a48a-b99814c2a637</guid>
+            <pubDate>Tue, 12 Jan 2016 01:56:49 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Jillian Michaels 30 Day Shred: Level 1]]></title>
