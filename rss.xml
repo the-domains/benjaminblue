@@ -4,14 +4,14 @@
         <description><![CDATA[BenjaminBlue]]></description>
         <link>http://benjaminblue.me/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 13 Jan 2016 23:01:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Jan 2016 23:01:58 GMT</lastBuildDate>
         <atom:link href="http://benjaminblue.me/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[New stuff]]></title>
             <description><![CDATA[<article><h1>New stuff</h1><p>Welcome to Benjaminblue.me</p></article>]]></description>
             <link>http://benjaminblue.me/new-stuff/index.html</link>
             <guid isPermaLink="false">6bf17185-72b5-4095-ad76-483ad956c422</guid>
-            <pubDate>Wed, 13 Jan 2016 23:00:56 GMT</pubDate>
+            <pubDate>Wed, 13 Jan 2016 23:01:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[test test]]></title>
