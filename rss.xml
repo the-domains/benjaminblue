@@ -4,7 +4,7 @@
         <description><![CDATA[BenjaminBlue]]></description>
         <link>http://benjaminblue.me/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 13 Jan 2016 04:48:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Jan 2016 04:48:07 GMT</lastBuildDate>
         <atom:link href="http://benjaminblue.me/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[New stuff]]></title>
@@ -12,13 +12,6 @@
             <link>http://benjaminblue.me/new-stuff/index.html</link>
             <guid isPermaLink="false">6bf17185-72b5-4095-ad76-483ad956c422</guid>
             <pubDate>Thu, 12 Nov 2015 12:45:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[f20160112-160747]]></title>
-            <description><![CDATA[<article><h1>f20160112-160747</h1><img src="https://farm2.staticflickr.com/1458/24234309182_94458017b7_b.jpg"></article>]]></description>
-            <link>https://www.flickr.com/photos/obscureterminus/24234309182/in/dateposted/</link>
-            <guid isPermaLink="false">90eba2a5-04aa-46c0-a942-75be0e3fd50a</guid>
-            <pubDate>Wed, 13 Jan 2016 04:48:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[f20160112-161826]]></title>
@@ -74,6 +67,13 @@
             <link>https://vimeo.com/147225292</link>
             <guid isPermaLink="false">b18baa50-9949-44ca-9754-2af523391d05</guid>
             <pubDate>Fri, 04 Dec 2015 19:40:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[[Video] | Giant Himalayan Bees Produce Hallucinogenic Honey - TIMEWHEEL]]></title>
+            <description><![CDATA[<article><h1>[Video] | Giant Himalayan Bees Produce Hallucinogenic Honey - TIMEWHEEL</h1><p>TIMEWHEEL is a record label, audiovisual studio and blog.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/eff02a14f815bc4fa5871bed1a7af32bdca00a5e.jpg"></article>]]></description>
+            <link>http://timewheel.net/Video-Giant-Himalayan-Bees-Produce-Hallucinogenic-Honey</link>
+            <guid isPermaLink="false">f5e6aee2-cf53-4be1-93e9-2d2f9d003fde</guid>
+            <pubDate>Mon, 16 Nov 2015 02:12:29 GMT</pubDate>
         </item>
     </channel>
 </rss>
