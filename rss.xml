@@ -4,7 +4,7 @@
         <description><![CDATA[BenjaminBlue]]></description>
         <link>http://benjaminblue.me/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 13 Jan 2016 04:05:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Jan 2016 04:05:19 GMT</lastBuildDate>
         <atom:link href="http://benjaminblue.me/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[New stuff]]></title>
@@ -12,13 +12,6 @@
             <link>http://benjaminblue.me/new-stuff/index.html</link>
             <guid isPermaLink="false">6bf17185-72b5-4095-ad76-483ad956c422</guid>
             <pubDate>Thu, 12 Nov 2015 12:45:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Uber!]]></title>
-            <description><![CDATA[<h1>Uber!</h1>]]></description>
-            <link>http://benjaminblue.me/uber/index.html</link>
-            <guid isPermaLink="false">ae54f04d-f23b-44a4-ba62-c77c375d1af2</guid>
-            <pubDate>Wed, 13 Jan 2016 04:04:11 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Idk]]></title>
