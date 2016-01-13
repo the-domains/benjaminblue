@@ -4,7 +4,7 @@
         <description><![CDATA[BenjaminBlue]]></description>
         <link>http://benjaminblue.me/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 13 Jan 2016 20:50:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Jan 2016 21:19:17 GMT</lastBuildDate>
         <atom:link href="http://benjaminblue.me/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[New stuff]]></title>
@@ -14,8 +14,14 @@
             <pubDate>Thu, 12 Nov 2015 12:45:42 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[No title]]></title>
+            <link>http://benjaminblue.me/9f5db0b7-3139-422a-8208-75c4795e3c3d/index.html</link>
+            <guid isPermaLink="false">9f5db0b7-3139-422a-8208-75c4795e3c3d</guid>
+            <pubDate>Wed, 13 Jan 2016 21:19:16 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Progress...]]></title>
-            <description><![CDATA[<h1>Progress...</h1>]]></description>
+            <description><![CDATA[<article><h1>Progress...</h1><p>It's day 6 or 7 of using the 30 day shred workout.  My endurance is increasing ever so slightly.  I'm still a little bit off from being about to complete the full workout in the timeframe.  It's tough!  I find myself winded, but taking less breaks than I had the time before.  So it's working.  My goal is to get to or close to a certain weight that I haven't seen since my late teens,early 20's.  Once upon a time, I weighed about 180 lbs.  Right now, I'm about 230 lbs, but I've also been lifting weights.  Back then, I wasn't.  I don't think I could ever get that low in weight again, but I want to get as close as I can. My priorities have changed. </p></article>]]></description>
             <link>http://benjaminblue.me/progress/index.html</link>
             <guid isPermaLink="false">87c42add-dc95-4796-ac2f-7e8a204ff2ae</guid>
             <pubDate>Wed, 13 Jan 2016 20:48:58 GMT</pubDate>
@@ -68,13 +74,6 @@
             <link>http://benjaminblue.me/023f4880-d89b-4d47-bfc1-f06d33443325/index.html</link>
             <guid isPermaLink="false">023f4880-d89b-4d47-bfc1-f06d33443325</guid>
             <pubDate>Sun, 10 Jan 2016 20:28:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[2016]]></title>
-            <description><![CDATA[<article><h1>2016</h1><p>It's been awhile since I've made an update.  Not that anyone actually reads these haha.  Bitches.  2016 is here and though I've made no goals starting for the new year, I've carried over some from 2015.  I began working out at home in the fall.  I went back to working nights and since I'm a hermit during the work week, I might as well be productive.  I had some hand weights and bought some more so I could gradually increase.  It's been working out nicely.  In addition to those, I've started using one of those insane workout DVDs to shed off some weight.  It's working.  I haven't been taking any progress pics, but I'll use pics from last year along with some pics from this summer and last month to show progress.  It's been rough with the slow onset of winter, the lethargy that comes with working nights, and not getting enough sleep due to the apnea.  2016 started off strong and I hope to continue making progress.  I have set goals, and have been reblogging pics to the other blog that are serving as inspiration for me.  I hope everyone is having a great 2016 and it's a better year.  Hugz.</p></article>]]></description>
-            <link>http://benjaminblue.me/2016/index.html</link>
-            <guid isPermaLink="false">9aa7d130-80d2-4fdd-9c35-cd845c522af3</guid>
-            <pubDate>Wed, 06 Jan 2016 19:56:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
