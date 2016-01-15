@@ -1,5 +1,19 @@
+name: BenjaminBlue
+favicon: null
+layout_spectrum: 0.40191
+typography_spectrum: 1
+cta:
+  domain: null
+  bucket: null
+  version: null
 analytics:
   google: UA-72243025-1
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
     - '#C0E0D8'
@@ -8,12 +22,7 @@ color:
     - '#008BFF'
     - '#000000'
   brandStrength: 0.424549
-  lightness: 0.481982
-  rhythmicContrast: 0.216216
-  saturation: 1
-cta: {}
-layout_spectrum: 0.421171
-name: BenjaminBlue
-opengraph: {}
+  lightness: 0.568693
+  saturation: 0.742117
+  rhythmicContrast: 0.327702
 purpose: []
-typography_spectrum: 1
