@@ -8,11 +8,11 @@ color:
     - '#008BFF'
     - '#000000'
   brandStrength: 0.424549
-  lightness: 0.568693
-  rhythmicContrast: 0.327702
-  saturation: 0.471846
+  lightness: 0.481982
+  rhythmicContrast: 0.216216
+  saturation: 1
 cta: {}
-layout_spectrum: 0.426801
+layout_spectrum: 0.421171
 name: BenjaminBlue
 opengraph: {}
 purpose: []
