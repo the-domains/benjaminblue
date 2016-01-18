@@ -4,7 +4,7 @@
         <description><![CDATA[BenjaminBlue]]></description>
         <link>http://benjaminblue.me/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 17 Jan 2016 21:07:25 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Jan 2016 22:16:41 GMT</lastBuildDate>
         <atom:link href="http://benjaminblue.me/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Thu, 14 Jan 2016 01:29:48 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<video src="blob:https%3A//www.youtube.com/4c5908c9-a115-42e3-a799-929035b6efb8"></video>]]></description>
+            <link>http://benjaminblue.me/6cfb103c-b0c7-4f99-b5a5-1f427eac382f/index.html</link>
+            <guid isPermaLink="false">6cfb103c-b0c7-4f99-b5a5-1f427eac382f</guid>
+            <pubDate>Sun, 17 Jan 2016 22:15:53 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[You can get David Bowie's only video game for free until Jan. 22]]></title>
-            <description><![CDATA[<article><h1>You can get David Bowie's only video game for free until Jan. 22</h1><p>David Bowie was perfectly cast in dual roles as an all-digital techno-revolutionary and a space-age rock star in Quantic Dream's 1999 game, Omikron: The Nomad Soul. Now, publisher Square Enix is celebrating the late, great musician's life and work by handing out free copies of the game.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/efd139467e4ffad4cc22d251480583d2bf5138fe.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>You can get David Bowie's only video game for free until Jan. 22</h1><p>David Bowie was perfectly cast in dual roles as an all-digital techno-revolutionary and a space-age rock star in Quantic Dream's 1999 game, Omikron: The Nomad Soul. Now, publisher Square Enix is celebrating the late, great musician's life and work by handing out free copies of the game.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bbc1e90056eb296e31f0b5a49f36a90473a20427.jpg"></article>]]></description>
             <link>http://flip.it/LkG13</link>
             <guid isPermaLink="false">4287bf47-80da-4442-a10c-6b594e7bbe6e</guid>
             <pubDate>Sun, 17 Jan 2016 21:07:24 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://youtu.be/QGU1DLfi8OY</link>
             <guid isPermaLink="false">5783c2bb-a1f6-4241-9fc2-42adf3dcf910</guid>
             <pubDate>Tue, 12 Jan 2016 08:24:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Jillian Michaels 30 Day Shred: Level 1]]></title>
-            <description><![CDATA[<article><h1>Jillian Michaels 30 Day Shred: Level 1</h1><p>Jillian Michael’s 30 day shred. I found this on the youtubes. I have the dvd that a friend made me. I’m on like day 5 now. I’ve been using this dvd in addition to working out at home. I dare anyone to do this with me. :) time to get fit for 2016.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8c3e18e5664c14a1b583274e8c2b8dee0a112b25.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=1Pc-NizMgg8</link>
-            <guid isPermaLink="false">3bdad310-f692-41c4-b117-4f11e60c2e55</guid>
-            <pubDate>Sun, 10 Jan 2016 20:43:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
