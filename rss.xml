@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[The boy who drank stars]]></title>
-        <description><![CDATA[The boy who drank stars]]></description>
+        <title><![CDATA[BenjaminBlue]]></title>
+        <description><![CDATA[BenjaminBlue]]></description>
         <link>http://benjaminblue.me/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 28 Mar 2016 15:47:43 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Apr 2016 19:06:52 GMT</lastBuildDate>
         <atom:link href="http://benjaminblue.me/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>www.amazon.com/Chasing-Midnight-Benjamin-Fiske-ebook/dp/B00M5K8O9C/ref=sr_1_11?ie=UTF8&qid=1461438218&sr=8-11&keywords=chasing+midnight</p>]]></description>
+            <link>http://benjaminblue.me/wwwamazoncomchasing-midnight-benjamin-fiske-ebookdpb00m/index.html</link>
+            <guid isPermaLink="false">73b3d9e1-c010-4391-b27a-915984040650</guid>
+            <pubDate>Sat, 23 Apr 2016 19:06:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="http://www.heart-machine.com/wp-content/uploads/2013/10/HLD_Screenshot_BETA_entrance.png">]]></description>
@@ -50,7 +57,7 @@
         </item>
         <item>
             <title><![CDATA[Idk]]></title>
-            <description><![CDATA[<article><h1>Idk</h1><p>I need additional income.  I'm considering uber driving to make up some extra cash.  I have too much debt.  Though I make barely enough to pay all my bills, I don't make enough to save, or do much else.  I work from home currently, so my car is mostly sitting unused.  Even an extra $100 here and there would make a huge difference.  We shall see.</p></article>]]></description>
+            <description><![CDATA[<p>I need additional income.  I'm considering uber driving to make up some extra cash.  I have too much debt.  Though I make barely enough to pay all my bills, I don't make enough to save, or do much else.  I work from home currently, so my car is mostly sitting unused.  Even an extra $100 here and there would make a huge difference.  We shall see.</p>]]></description>
             <link>http://benjaminblue.me/idk/index.html</link>
             <guid isPermaLink="false">eaa78f8f-f11d-4173-b619-1888d6af330b</guid>
             <pubDate>Tue, 12 Jan 2016 19:03:41 GMT</pubDate>
