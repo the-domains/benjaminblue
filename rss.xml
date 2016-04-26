@@ -4,7 +4,7 @@
         <description><![CDATA[BenjaminBlue]]></description>
         <link>http://benjaminblue.me/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 26 Apr 2016 05:36:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Apr 2016 05:41:33 GMT</lastBuildDate>
         <atom:link href="http://benjaminblue.me/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>http://benjaminblue.me/benjamin-fiske-writer-amateur-photographer-game-designer/index.html</link>
             <guid isPermaLink="false">89fcb1a0-5be6-47bd-bbf0-dda4a23c196e</guid>
             <pubDate>Tue, 26 Apr 2016 05:36:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>photos</p>]]></description>
+            <link>http://benjaminblue.me/photos/index.html</link>
+            <guid isPermaLink="false">c059f0e6-9636-4695-b95e-118d2588aad4</guid>
+            <pubDate>Tue, 26 Apr 2016 05:41:31 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Why a Semicolon Tattoo Is the Most Beautiful Tattoo]]></title>
@@ -68,13 +75,6 @@
             <link>https://www.flickr.com/photos/obscureterminus/24260025941/in/dateposted/</link>
             <guid isPermaLink="false">ab4513bb-b019-4dbb-ab53-f867271c5a0f</guid>
             <pubDate>Wed, 13 Jan 2016 04:48:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Idk]]></title>
-            <description><![CDATA[<p>I need additional income.  I'm considering uber driving to make up some extra cash.  I have too much debt.  Though I make barely enough to pay all my bills, I don't make enough to save, or do much else.  I work from home currently, so my car is mostly sitting unused.  Even an extra $100 here and there would make a huge difference.  We shall see.</p>]]></description>
-            <link>http://benjaminblue.me/idk/index.html</link>
-            <guid isPermaLink="false">eaa78f8f-f11d-4173-b619-1888d6af330b</guid>
-            <pubDate>Tue, 12 Jan 2016 19:03:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
