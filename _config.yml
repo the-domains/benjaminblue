@@ -1,20 +1,4 @@
-name: The World Of Blue
-favicon: null
-layout_spectrum: 0.45651
 typography_spectrum: 1
-title: The World Of Blue
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: UA-72243025-1
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#c4cdd4'
@@ -26,4 +10,20 @@ color:
   lightness: 0.5625
   saturation: 0.25
   rhythmicContrast: 0.5
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.45651
+analytics:
+  google: UA-72243025-1
+  facebook: null
+  twitter: null
+name: The World Of Blue
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: The World Of Blue
 purpose: []
