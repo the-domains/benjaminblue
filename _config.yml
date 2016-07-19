@@ -29,6 +29,10 @@ navigation:
     url: blog.benjaminblue.me
     name: blog
     type: external
+  - id: photography.benjaminblue.me
+    url: photography.benjaminblue.me
+    name: amateur photography
+    type: external
 favicon: null
 title: The World Of Blue
 purpose: []
