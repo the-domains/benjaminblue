@@ -24,7 +24,11 @@ cta:
   domain: null
   bucket: null
   version: null
-navigation: []
+navigation:
+  - id: 'http://blog.benjaminblue.me'
+    url: 'http://blog.benjaminblue.me'
+    name: Blog
+    type: external
 favicon: null
 title: The World Of Blue
 purpose: []
