@@ -33,6 +33,10 @@ navigation:
     url: 'http://photography.benjaminblue.me'
     name: Photography
     type: external
+  - id: 'http://levelb.benjaminblue.me'
+    url: 'http://levelb.benjaminblue.me'
+    name: Game Design
+    type: external
 favicon: null
 title: The World Of Blue
 purpose: []
