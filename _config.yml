@@ -1,20 +1,20 @@
-typography_spectrum: 1
+layout_spectrum: 0.45651
+typography_spectrum: 0.7802563218865544
 color:
   brandColors:
-    - '#c4cdd4'
-    - '#71828c'
-    - '#191e24'
-    - '#9dabb4'
-    - '#424e5a'
-  brandStrength: 0.1875
-  lightness: 0.5625
-  saturation: 0.25
-  rhythmicContrast: 0.5
+    - '#225378'
+    - '#1695A3'
+    - '#ACF0F2'
+    - '#F3FFE2'
+    - '#EB7F00'
+  brandStrength: 0.7976047864649445
+  lightness: 0.8013522790279239
+  saturation: 0.4846620911266655
+  rhythmicContrast: 0.45380753348581493
 opengraph:
   image: null
   type: null
   appId: null
-layout_spectrum: 0.45651
 analytics:
   google: UA-72243025-1
   facebook: null
@@ -25,16 +25,13 @@ cta:
   bucket: null
   version: null
 navigation:
-  - id: 'http://blog.benjaminblue.me'
-    url: 'http://blog.benjaminblue.me'
+  - url: 'http://blog.benjaminblue.me'
     name: Blog
     type: external
-  - id: 'http://photography.benjaminblue.me'
-    url: 'http://photography.benjaminblue.me'
+  - url: 'http://photography.benjaminblue.me'
     name: Photography
     type: external
-  - id: 'http://levelb.benjaminblue.me'
-    url: 'http://levelb.benjaminblue.me'
+  - url: 'http://levelb.benjaminblue.me'
     name: Game Design
     type: external
 favicon: null
